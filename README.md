@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mary666Mary
 - 👀 I’m in love with code </>
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React!
 
 
 <!---
